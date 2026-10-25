@@ -1,0 +1,4 @@
+Model,Accuracy (%),Positive-class Recall,Positive-class Precision
+Logistic Regression,73.38,0.704,0.603
+Random Forest,74.03,0.685,0.617
+XGBoost,76.62,0.63,0.68
